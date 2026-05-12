@@ -1,2 +1,2 @@
-# ML-Heart-Project
+# ML-Heart-Disease-Project
 ML Heart Project
